@@ -1,0 +1,4 @@
+repository "Learn_TankGame@lette_zzy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
