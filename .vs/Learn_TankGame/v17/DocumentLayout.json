@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "D:\\unityLearn\\Learn_TankGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|d:\\unitylearn\\learn_tankgame\\assets\\scripts\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|D:\\unityLearn\\Learn_TankGame\\assets\\scripts\\game\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|d:\\unitylearn\\learn_tankgame\\assets\\scripts\\game\\begainscript\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|d:\\unitylearn\\learn_tankgame\\assets\\scripts\\game\\gamescene\\player\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\player\\tankbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|D:\\unityLearn\\Learn_TankGame\\assets\\scripts\\game\\gamescene\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|d:\\unitylearn\\learn_tankgame\\assets\\scripts\\game\\gamescene\\player\\cameramap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\player\\cameramap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|D:\\unityLearn\\Learn_TankGame\\assets\\scripts\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\gamescene\\ui\\quitpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|D:\\unityLearn\\Learn_TankGame\\assets\\scripts\\game\\begainscript\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6682D96E-0A88-4623-3555-D48022B040F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\begainscript\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,11 +74,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CameraMap.cs",
+              "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\CameraMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Player\\CameraMap.cs",
+              "ToolTip": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\CameraMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Player\\CameraMap.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:10:50.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Player\\PlayerController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:37:13.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankBase.cs",
+              "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\TankBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\Player\\TankBase.cs",
+              "ToolTip": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\Player\\TankBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\Player\\TankBase.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:35:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "QuitPanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\UI\\QuitPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\UI\\QuitPanel.cs",
@@ -74,25 +125,24 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\UI\\QuitPanel.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAowB4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T13:04:42.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T13:04:42.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GamePanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\UI\\GamePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\GameScene\\UI\\GamePanel.cs",
               "ToolTip": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\GameScene\\UI\\GamePanel.cs",
               "RelativeToolTip": "Assets\\Scripts\\game\\GameScene\\UI\\GamePanel.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBIAAAAQAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T13:59:11.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BakMusic.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\Audio\\BakMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\Audio\\BakMusic.cs",
@@ -104,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "BasePanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\BegainScript\\BasePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BegainScript\\BasePanel.cs",
@@ -116,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "RankInfo.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\data\\RankInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\data\\RankInfo.cs",
@@ -128,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PlayerPrefsUtil.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\PlayerPrefsManage\\PlayerPrefsUtil.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPrefsManage\\PlayerPrefsUtil.cs",
@@ -140,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "RootGUI.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\CustomGUI\\RootGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CustomGUI\\RootGUI.cs",
@@ -152,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "RankPanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\BegainScript\\RankPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BegainScript\\RankPanel.cs",
@@ -164,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "SliderGUI.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\CustomGUI\\SliderGUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CustomGUI\\SliderGUI.cs",
@@ -176,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "GameDataMgr.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\data\\GameDataMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\data\\GameDataMgr.cs",
@@ -188,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MusciData.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\data\\MusciData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\data\\MusciData.cs",
@@ -200,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BeginPanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\BegainScript\\BeginPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BegainScript\\BeginPanel.cs",
@@ -212,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "D:\\unityLearn\\Learn_TankGame\\Assets\\Scripts\\game\\BegainScript\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\game\\BegainScript\\SettingPanel.cs",
@@ -220,8 +270,7 @@
               "RelativeToolTip": "Assets\\Scripts\\game\\BegainScript\\SettingPanel.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAArwBYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T08:36:23.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T08:36:23.159Z"
             }
           ]
         }

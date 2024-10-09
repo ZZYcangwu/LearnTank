@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CustomGUI\TextureGUI.cs" />
     <Compile Include="Assets\Scripts\game\data\MusciData.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Player\TankBase.cs" />
     <Compile Include="Assets\Scripts\CustomGUI\CustomBaseController.cs" />
     <Compile Include="Assets\Scripts\game\BegainScript\SettingPanel.cs" />
     <Compile Include="Assets\Scripts\CustomGUI\RootGUI.cs" />
@@ -79,7 +80,9 @@
     <Compile Include="Assets\Scripts\game\data\RankInfo.cs" />
     <Compile Include="Assets\Scripts\game\BegainScript\BasePanel.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\UI\QuitPanel.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Player\CameraMap.cs" />
     <Compile Include="Assets\Scripts\CustomGUI\ToogleGUI.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\Player\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ArtRes\TDSTK\Model\BlendColorsOverlayTexture.shader" />
