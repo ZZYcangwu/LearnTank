@@ -81,8 +81,10 @@
     <Compile Include="Assets\Scripts\game\BegainScript\BasePanel.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\UI\QuitPanel.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\Player\CameraMap.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\weapon\WeaponObj.cs" />
     <Compile Include="Assets\Scripts\CustomGUI\ToogleGUI.cs" />
     <Compile Include="Assets\Scripts\game\GameScene\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\game\GameScene\weapon\Bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ArtRes\TDSTK\Model\BlendColorsOverlayTexture.shader" />

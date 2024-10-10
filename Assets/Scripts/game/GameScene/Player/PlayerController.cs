@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class PlayerController : TankBase
 {
-    
+    public WeaponObj weapon;
 
     public override void Fire()
     {
-       
+        weapon.Fire();
     }
 
     public override void Dead()
@@ -28,10 +28,7 @@ public class PlayerController : TankBase
         {
             Fire();
         }
-        if (GamePanel.Instanle.nowTime > 4)
-        {
-            Dead();
-        }
+        
 
     }
     /// <summary>

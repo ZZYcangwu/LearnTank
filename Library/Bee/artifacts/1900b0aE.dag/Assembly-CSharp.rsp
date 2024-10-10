@@ -379,6 +379,8 @@
 "Assets/Scripts/game/GameScene/Player/TankBase.cs"
 "Assets/Scripts/game/GameScene/UI/GamePanel.cs"
 "Assets/Scripts/game/GameScene/UI/QuitPanel.cs"
+"Assets/Scripts/game/GameScene/weapon/Bullet.cs"
+"Assets/Scripts/game/GameScene/weapon/WeaponObj.cs"
 "Assets/Scripts/PlayerPrefsManage/PlayerPrefsUtil.cs"
 -langversion:9.0
 
